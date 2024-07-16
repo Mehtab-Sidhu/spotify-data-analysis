@@ -35,3 +35,7 @@ Here's a breakdown of the key aspects covered in this project:
 - Identifies the top five most popular music genres based on user popularity ratings.
 
 This project provides valuable insights into music trends and user preferences on Spotify. Feel free to explore the code further, customize visualizations, and delve deeper into specific genres or audio features.
+
+#### Datasets can be found at:
+- For [tracks.csv](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets)
+- For [SpotifyFeatures.csv](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
